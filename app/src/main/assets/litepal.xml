@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="MyWeatherApp" />
+    <version value="1" />
+    <list>
+        <mapping class="top.dreamdropsakura.myweatherapp.db.City" />
+        <mapping class="top.dreamdropsakura.myweatherapp.db.County" />
+        <mapping class="top.dreamdropsakura.myweatherapp.db.Province" />
+    </list>
+</litepal>
